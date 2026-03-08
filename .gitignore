@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+venv/
+output/scan_report_*.txt
+output/scan_report_*.pdf
+output/siem_logs.ndjson
+.DS_Store
